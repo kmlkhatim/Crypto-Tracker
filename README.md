@@ -1,14 +1,14 @@
-🔗 Nouveau Projet en Vue : Crypto Tracker 🚀
+🔗 Exciting New Project: Crypto Tracker 🚀
 
-Je suis ravi de vous annoncer que je travaille sur mon prochain projet technologique : un "Crypto Tracker" développé avec React Native. Ce projet ambitieux vise à offrir une application mobile intuitive pour suivre en temps réel les fluctuations du marché des cryptomonnaies. 💹
+I’m thrilled to announce that I’m working on my next tech challenge: a "Crypto Tracker" app developed with React Native. This ambitious project aims to deliver a user-friendly mobile app to track cryptocurrency market fluctuations in real time. 💹
 
-👉 Objectifs du projet :
+👉 Project Goals:
 
-Interface conviviale : Une application rapide et facile à utiliser, pensée pour les investisseurs et les curieux du monde des cryptos.
-Analyse et alertes : Des outils d’analyse avancée et des notifications personnalisées pour ne jamais manquer une opportunité.
-Technologie moderne : Grâce à React Native, l’application sera disponible sur Android et iOS avec une performance optimale.
-Ce projet combine ma passion pour le développement mobile et mon intérêt pour les nouvelles technologies, notamment la blockchain.
-Lancement prévu très bientôt ! 🌟
+User-friendly interface: A fast and intuitive app designed for investors and crypto enthusiasts alike.
+Advanced analytics and alerts: Tools for in-depth market analysis and personalized notifications to seize every opportunity.
+Modern technology: Built with React Native, the app will be available on both Android and iOS with optimal performance.
+This project combines my passion for mobile development and my interest in cutting-edge technologies like blockchain.
+Launching very soon! 🌟
 
-Je suis ouvert à vos suggestions et idées pour enrichir cette application. N’hésitez pas à me contacter si ce projet vous inspire ou si vous souhaitez en discuter.
+I’m open to suggestions and ideas to make this app even better. Feel free to reach out if this project inspires you or if you’d like to discuss it further.
 
