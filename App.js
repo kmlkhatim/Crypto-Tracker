@@ -7,7 +7,7 @@ import CoinDetailedScreen from "./src/screens/CoinDetailedScreen";
 export default function App() {
   return (
     <View style={styles.container}>
-      <CoinDetailedScreen /> 
+      <CoinDetailedScreen />
       <StatusBar style="light" />
     </View>
   );

@@ -1,10 +1,24 @@
 import { View, Text } from "react-native";
 import React from "react";
+import Coin from "../../../assets/data/crypto.json";
+import CoinDetailedHeader from "./components/CoinDetailedHeader";
 
 const CoinDetailedScreen = () => {
+  const {
+    image: { small },
+    name,
+    symbol,
+    market_data: { market_cap_rank },
+  } = Coin;
+
   return (
     <View>
-      <Text style={{color: 'white'}}> CoinDetailedScreen</Text>
+      <CoinDetailedHeader
+        image={small}
+        name={name}
+        symbol={symbol}
+        marketCapRank={market_cap_rank}
+      />
     </View>
   );
 };
